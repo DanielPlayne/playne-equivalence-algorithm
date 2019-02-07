@@ -17,7 +17,7 @@ Usage
 The examples are written as independent programs for the Label-Equivalence algorithm, the Playne-Equivalence algorithm with both the Direct and Block methods for 2D and 3D with clamped boundary conditions.
 
 Usage:
-./<method> <gpu-device> <input-files...> 
+./\<method\> \<gpu-device\> \<input-files...\> 
 
 A simple makefile is provided to compile the examples.
 
