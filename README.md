@@ -1,5 +1,4 @@
 # Playne-Equivalence Algorithm
---------------------
 
 An illustrative CUDA implementation of the Playne-Equivalence Connected-Component Labelling Algorithm described in:
 
